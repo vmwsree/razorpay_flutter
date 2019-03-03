@@ -4,8 +4,7 @@ version: 0.2.5
 author: chetan<dynamitechetan@gmail.com>
 homepage: https://github.com/dynamitechetan/razorpay_flutter
 
-environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
 
 dependencies:
   flutter:
